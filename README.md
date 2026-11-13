@@ -208,4 +208,4 @@ This repository serves as the official landing page for ACDSee Photo Studio Stan
 **Get the most recent version of ACDSee Photo Studio Standard today!**
 
 ---
-**Last updated:** 2026-11-13 10:35:46 UTC
+**Last updated:** 2026-11-13 18:23:58 UTC
